@@ -1,8 +1,8 @@
-# `@elunic/typescript-starter`
+# `@typescript-starter`
 
-The elunic TypeScript starter
+The TypeScript starter
 
-- [`@elunic/typescript-starter`](#elunictypescript-starter)
+- [`@typescript-starter`](#elunictypescript-starter)
   - [Usage](#usage)
   - [npm scripts](#npm-scripts)
   - [`.env` configuration](#env-configuration)
